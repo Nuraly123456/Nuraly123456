@@ -1,84 +1,79 @@
-👋 Hi, I'm Nuraly
-I'm a full-stack developer passionate about building modern, scalable web applications with clean code and excellent user experiences.
+# 👋 Hi, I'm Nuraly  
 
-💻 I specialize in frontend development with Angular, React, and Vue.js, and have solid backend skills with Node.js and Python/Django.
-🛠️ I enjoy solving complex problems and turning ideas into fully-functional applications.
-🌱 Currently expanding my expertise in cloud technologies and advanced system architecture.
+I'm a web developer and tech enthusiast passionate about creating smart, responsive, and integrated web applications.  
 
-🚀 My Focus
-Full-stack web application development
+🎓 I studied at **Astana IT University** for one year and then continued my education at **IT Step Academy**.  
+🚀 I’ve also participated in several **Astana Hub** projects, gaining hands-on experience in modern development practices.  
 
-Responsive UI/UX design
+---
 
-REST API development and integration
+## 💡 About Me
+💻 I enjoy building full-stack solutions — from clean, scalable frontends to efficient backend integrations.  
+🔧 I love experimenting with new technologies and improving my workflow with modern tools and automation.  
+🌱 Currently focusing on backend development, APIs, and integration systems.  
 
-Database design and optimization
+---
 
-Social media and CRM integrations
+## 🧠 Tech Stack & Tools
 
-CI/CD pipeline implementation
+### 🖥️ Frontend
+- **HTML**, **CSS**, **SASS**, **Tailwind CSS**
+- **JavaScript (JS)**, **TypeScript (TS)**
+- **Angular**, **React**, **Svelte**
 
-🎓 Education & Experience
-Astana IT University - 1 year of Computer Science studies
+### ⚙️ Backend
+- **Node.js (basic)**, **C++ (basic)**
+- **Python**, **Django**, **Django REST Framework**
 
-IT Step Academy - Comprehensive programming education
+### 🗄️ Databases
+- **PostgreSQL**, **SQL**
 
-Astana Hub - Active participation in startup projects and hackathons
+### 🧰 DevOps / Tools
+- **Docker**, **CI/CD (basic)**  
+- **Power BI**, **Excel**, **Laiyt**
 
-🗂️ Featured Projects
-🌐 E-commerce Platform with Social Integration
+### 🧩 Integrations
+- Instagram / WhatsApp / Viber / Telegram  
+- CRM systems: **Bitrix24**, **AmoCRM**  
+- Facebook integration
 
-🏢 CRM System with WhatsApp/Telegram Integration
+### 🎨 Design & UX
+- **UI/UX fundamentals** (basic, applying in real projects)
 
-📊 Data Analytics Dashboard with Power BI
+---
 
-🔗 Multi-platform Social Media Aggregator
+## 🚀 Experience Highlights
+- Participated in **Astana Hub** projects involving frontend and backend development.  
+- Worked on **integration of business systems** (CRM, social platforms, messengers).  
+- Developed and optimized **data dashboards** in **Power BI**.  
 
-🚀 Real-time Chat Application
+---
 
-🔗 Socials
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+## 📊 GitHub Stats
 
-💻 Tech Stack
-Frontend
-https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white
-https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+![Nuraly’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuraly123456&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuraly123456&layout=compact&theme=tokyonight)
 
-Backend & Databases
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
-https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white
+---
 
-Tools & Platforms
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
-https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
-https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nuraly123456&theme=tokyonight)
 
-Integrations & Specializations
-https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-https://img.shields.io/badge/Telegram_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-https://img.shields.io/badge/Instagram_API-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/Facebook_API-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-https://img.shields.io/badge/CRM_Systems-FF6B6B?style=for-the-badge&logo=salesforce&logoColor=white
-https://img.shields.io/badge/Bitrix24-1E8BC3?style=for-the-badge&logo=bitrix&logoColor=white
+---
 
-📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=Nuraly123456&show_icons=true&theme=tokyonight
+## 🌐 Connect with Me
+- Telegram: [@Nuralykz](https://t.me/Nuralykz)  
+- LinkedIn: [Nuraly Kuttibay](https://www.linkedin.com/in/nuraly-kuttibay-048669368/)  
+- Instagram: [ali_muslim011](https://www.instagram.com/ali_muslim011)  
+- Facebook: Nuraly Kuttibay
+---
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Nuraly123456&layout=compact&theme=tokyonight
+### ⚡ Quick Facts
+- 🎯 Always open to learning new technologies  
+- 🤝 Love working on team-based projects  
+- 🌍 Interested in system integrations and automation  
+- 📈 Constantly improving technical and analytical skills  
 
-🏆 GitHub Trophies
-https://github-profile-trophy.vercel.app/?username=Nuraly123456&theme=tokyonight
+---
 
+⭐ *"Code with logic, design with empathy, and build with purpose."*  
