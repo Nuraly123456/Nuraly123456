@@ -1,71 +1,18 @@
 # 👋 Hi, I'm Nuraly  
 
-<div align="center">
-  <div style="position: relative; display: inline-block;">
-    <img src="https://github.com/Nuraly123456/Nuraly123456/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966.gif?raw=true" width="800" height="450" style="border-radius: 10px;">
-    <div style="
-      position: absolute;
-      top: 40%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      color: #00ffff;
-      font-size: 40px;
-      font-weight: bold;
-      text-shadow: 0 0 15px #00ffff;
-      animation: blink 1.5s infinite;
-    ">
-      Nurly jol jastary
-    </div>
-  </div>
-</div>
-
-<style>
-@keyframes blink {
-  0% { opacity: 1; }
-  50% { opacity: 0.3; }
-  100% { opacity: 1; }
-
-<!-- Негізгі GIF -->
-<img src="https://github.com/Nuraly123456/Nuraly123456/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966.gif?raw=true" width="750" style="border-radius:10px;">
-
-</div>
-
-<style>
-@keyframes blink {
-  0% {opacity: 1;}
-  50% {opacity: 0.3;}
-  100% {opacity: 1;}
-}
-</style>
-
----
-
-## 💡 About Me
-
-<div align="center">
+![Coding GIF](https://github.com/Nuraly123456/Nuraly123456/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966.gif?raw=true)
 
 I'm a web developer and tech enthusiast passionate about creating smart, responsive, and integrated web applications.  
-<br>
-
-<!-- Қосымша GIF -->
-<img src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f57556c706c634d704f43456d5447427442572f67697068792e676966" width="350">
-</div>
-
----
 
 🎓 I studied at **Astana IT University** for one year and then continued my education at **IT Step Academy**.  
 🚀 I’ve also participated in several **Astana Hub** projects, gaining hands-on experience in modern development practices.  
 
 ---
 
+## 💡 About Me
 💻 I enjoy building full-stack solutions — from clean, scalable frontends to efficient backend integrations.  
 🔧 I love experimenting with new technologies and improving my workflow with modern tools and automation.  
 🌱 Currently focusing on backend development, APIs, and integration systems.  
-
-💻 I enjoy building full-stack solutions — from clean, scalable frontends to efficient backend integrations.  
-🔧 I love experimenting with new technologies and improving my workflow with modern tools and automation.  
-🌱 Currently focusing on backend development, APIs, and integration systems.  
-
 
 ## 🧠 Tech Stack & Tools
 
