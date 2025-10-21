@@ -24,13 +24,6 @@
   0% { opacity: 1; }
   50% { opacity: 0.3; }
   100% { opacity: 1; }
-# 👋 Hi, I'm Nuraly  
-
-<div align="center">
-
-<h1 style="color:#00ffff; font-family:'Trebuchet MS', sans-serif; text-shadow:0 0 20px #00ffff; animation: blink 1.5s infinite;">
-  Nurly jol jastary
-</h1>
 
 <!-- Негізгі GIF -->
 <img src="https://github.com/Nuraly123456/Nuraly123456/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966.gif?raw=true" width="750" style="border-radius:10px;">
