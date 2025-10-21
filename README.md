@@ -14,6 +14,9 @@
     <a href="https://instagram.com/ali_muslim011">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
+    <a href="https://www.youtube.com/@nuralykuttibay2846">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    </a>
   </div>
 
   <h1 align="center">
